@@ -1,3 +1,3 @@
-def roll(1..6)
+def roll(rand(6))
 end
 
